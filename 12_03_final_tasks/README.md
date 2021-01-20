@@ -3,6 +3,7 @@
 * [A. Калькулятор](#a-калькулятор)
 * [B. Циклы](#b-циклы)
 
+**[⬆ Back to Global Index](https://github.com/vamotest/yandex_algorithms#index)**
 **[⬆ Back to Index](#index)**
 ## A. Калькулятор
 
@@ -99,6 +100,8 @@
 |:-------------:|:------:|
 | 7 2 + 4 * 2 + |   38   |
 
+
+**[⬆ Back to Global Index](https://github.com/vamotest/yandex_algorithms#index)**
 **[⬆ Back to Index](#index)**
 ## B. Циклы
 

@@ -1,6 +1,6 @@
 
 ## Index
-- Sprint 12. Topic 1. Typical interview tasks
+- **Sprint 12. Topic 1. Typical interview tasks**
   - [A. Значения функции](https://github.com/vamotest/yandex_algorithms/tree/master/12_01_typical_interview_tasks#a-%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8)
   - [B. Любители конференций](https://github.com/vamotest/yandex_algorithms/tree/master/12_01_typical_interview_tasks#b-%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8-%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B9)
   - [C. Списочная форма](https://github.com/vamotest/yandex_algorithms/tree/master/12_01_typical_interview_tasks#c-%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D1%84%D0%BE%D1%80%D0%BC%D0%B0)
@@ -19,7 +19,7 @@
   - [P. Комбинации](https://github.com/vamotest/yandex_algorithms/tree/master/12_01_typical_interview_tasks#p-%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D0%B8)
   - [Q. Статистика](https://github.com/vamotest/yandex_algorithms/tree/master/12_01_typical_interview_tasks#q-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)
   
-- Sprint 12. Topic 2. Basic data structure
+- **Sprint 12. Topic 2. Basic data structure**
   - [A. Кружки](https://github.com/vamotest/yandex_algorithms/tree/master/12_02_basic_data_structures#a-%D0%BA%D1%80%D1%83%D0%B6%D0%BA%D0%B8)
   - [B. Мониторинг](https://github.com/vamotest/yandex_algorithms/tree/master/12_02_basic_data_structures#b-%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3)
   - [C. Подстроки](https://github.com/vamotest/yandex_algorithms/tree/master/12_02_basic_data_structures#c-%D0%BF%D0%BE%D0%B4%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8)
@@ -38,6 +38,6 @@
   - [P. Списочная очередь](https://github.com/vamotest/yandex_algorithms/tree/master/12_02_basic_data_structures#p-%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D1%8C)
   - [Q. Дек](https://github.com/vamotest/yandex_algorithms/tree/master/12_02_basic_data_structures#q-%D0%B4%D0%B5%D0%BA)
   
-  
-
-- Sprint 12. Topic 3. Final tasks
+- **Sprint 12. Topic 3. Final tasks**
+  - [A. Калькулятор](https://github.com/vamotest/yandex_algorithms/tree/master/12_03_final_tasks#a-%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80)
+  - [B. Циклы](https://github.com/vamotest/yandex_algorithms/tree/master/12_03_final_tasks#b-%D1%86%D0%B8%D0%BA%D0%BB%D1%8B)
